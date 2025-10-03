@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(198, 202, 154);
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.buttons button{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(196, 96, 96);
+    color: white;
+}
+
+button:hover{
+    background-color: rgb(177, 70, 70);
+}
